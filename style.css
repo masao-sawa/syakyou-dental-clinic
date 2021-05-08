@@ -1,0 +1,37 @@
+
+.back {
+  background-color: rgb(248, 246, 246);
+  border-top-width: 8px;
+  border-top-style: solid;
+  border-top-color: rgb(108,198 ,196 );
+}
+.container{
+  margin: 0 60px 0;
+  display: flex;
+}
+.topicon {
+  padding-top: 8px;
+  text-align: left;
+}
+.time{
+  margin: auto;
+  margin-right: 0px;
+}
+.icon ul{height: 70px;
+  
+}
+.icon li{
+  display: inline;
+  border: solid 1px black ;
+  background-color: rgb(177, 228, 227);
+  
+  }
+
+.eng{
+  font-size: 10px;
+}
+
+.all menu{
+  display: flex;
+}
+dt{padding: 10px;}
